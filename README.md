@@ -1,4 +1,11 @@
-## Hi there 👋
+<h3 align="center"> 
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+</h3> 
+
+<h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Anus</h1>
+
 
 <!--
 **manuskhan23/manuskhan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
