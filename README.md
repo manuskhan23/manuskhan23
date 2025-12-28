@@ -5,7 +5,7 @@
 </h3> 
 
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Anus</h1>
-<h3 align="center">I am <b> full stack developer </b> developer and <b>specializing in MERN and React Native</b> and I am currently working on  <b>Node js , TypeScript , React , React Native</b> 
+<h3 align="center">I am <b> full stack </b> developer and <b>specializing in MERN and React Native</b> and I am currently working on  <b>Node js , TypeScript , React , React Native</b> 
 for native applications and Backend I wil build android and ios applications and websites.I enjoy solving complex problems and continuously learning new technologies to grow professionally
 </h3>     
  <br/>
